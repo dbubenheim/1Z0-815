@@ -1,4 +1,4 @@
 .idea
 .class
-.iml
+*.iml
 target/

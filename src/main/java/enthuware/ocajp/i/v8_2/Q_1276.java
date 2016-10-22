@@ -5,7 +5,7 @@ package enthuware.ocajp.i.v8_2;
  * clause of the enclosing method.
  * Note that finally is also throwing an exception here, but it is a RuntimeException so there is no need to handle it or declare it in the throws clause.
  *
- * @author dbubenheim@communicode.de
+ * @author daniel.bubenheim@gmail.com
  */
 public class Q_1276 {
 

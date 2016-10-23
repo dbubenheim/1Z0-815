@@ -9,7 +9,7 @@ public class Q_993 {
         A a = new A();
         B b = new B();
         a = b;
-        b = a; // Will not compile because 'a' is declared of class A and 'b' is of B which is a subclass of A. So an explicit cast is needed.
+//        b = a; // Will not compile because 'a' is declared of class A and 'b' is of B which is a subclass of A. So an explicit cast is needed.
         a = (B) b;
         b = (B) a;
     }

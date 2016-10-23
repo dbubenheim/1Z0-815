@@ -17,7 +17,7 @@ public class Q_1276 {
         try {
             tc.m1();
         } catch (final MyException e) {
-            tc.m1(); // Unhandled exception MyException
+//            tc.m1(); // Unhandled exception MyException
         } finally {
             tc.m2();
         }

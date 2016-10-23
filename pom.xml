@@ -7,6 +7,18 @@
     <groupId>com.enthuware</groupId>
     <artifactId>1Z0-808</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
+    <configuration>
+        <source>1.8</source>
+        <target>1.8</target>
+    </configuration>
+
+    <contributors>
+        <contributor>
+            <name>Daniel Bubenheim</name>
+            <email>daniel.bubenheim@gmail.com</email>
+        </contributor>
+    </contributors>
 
 </project>

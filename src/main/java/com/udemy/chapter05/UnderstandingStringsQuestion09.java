@@ -1,6 +1,6 @@
-package com.udemy;
+package com.udemy.chapter05;
 
-public class Chapter5UnderstandingStringsQuestion9 {
+public class UnderstandingStringsQuestion09 {
 
     public static void main(String[] args) {
 

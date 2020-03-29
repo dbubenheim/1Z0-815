@@ -34,7 +34,7 @@ public class Q_1341 {
         float f = Float.MAX_VALUE;
         double d = Double.MAX_VALUE;
 
-        // long to char no cast
+        // char to long no cast
         long l2 = c;
 
         // byte to short no cast

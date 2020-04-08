@@ -1,5 +1,5 @@
-# 1Z0-808
-My very own exercises as a preparation for the [Java SE 8 Programmer I Certification](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808)
+# 1Z0-815
+My very own exercises as a preparation for the [Java SE 11 Programmer I Certification](https://education.oracle.com/de/java-se-11-programmer-i/pexam_1Z0-815)
 
 Sources, tools and study material which I use
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial)

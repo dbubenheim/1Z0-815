@@ -17,5 +17,7 @@ public class Q_1225 {
 
         c = "12345".charAt('1'); // index out of range 49
         System.out.println(c);
+
+        Character c1 = new Character('c');
     }
 }

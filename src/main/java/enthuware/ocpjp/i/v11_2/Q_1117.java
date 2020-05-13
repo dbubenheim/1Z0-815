@@ -12,10 +12,10 @@ public class Q_1117 {
     }
 }
 
-class Automobile{
+class Automobile {
     public void drive() {  System.out.println("Automobile: drive");   }
 }
 
-class Truck extends Automobile{
+class Truck extends Automobile {
     public void drive() {  System.out.println("Truck: drive");   }
 }
